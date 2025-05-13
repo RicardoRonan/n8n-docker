@@ -32,7 +32,7 @@ This project provides a straightforward Docker Compose setup to deploy n8n, enab
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RicardoRonan/n8n-docker
    cd n8n-docker-compose
    ```
 
